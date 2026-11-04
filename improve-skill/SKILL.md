@@ -11,7 +11,7 @@ The user names a skill, and sometimes a PR that edits it. Work on the whole skil
 ## Steps
 
 1. Check out the PR's head branch, or the default branch when there is no PR. Read every file in the skill folder.
-2. Apply `/cleanup`, `$writing-for-agents`, and [unslop](../unslop/SKILL.md) to the whole skill.
+2. Apply `$cleanup`, `$writing-for-agents`, and `$unslop` to the whole skill.
 3. Prune over-documentation. Ask two questions of every line:
    - Is it a cache? Would the agent find this by running `--help`, reading the files, trying the command, or reading the tool's docs? Delete it.
    - Is it volatile? Will it likely change with the tool's next release or nightly, like flag names, menu paths, file-format fields, or defaults? Delete it, or replace it with the command that looks it up.
