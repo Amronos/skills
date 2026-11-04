@@ -7,6 +7,7 @@ My agent skills. This repo is cloned to `~/.agents/skills` by my [dotfiles](http
 | Skill | What it does |
 | --- | --- |
 | [improve-skill](improve-skill/SKILL.md) | Tightens a whole skill and prunes what the agent can discover or what goes stale with new tool versions. |
+| [improve-agent-tools](improve-agent-tools/SKILL.md) | Audits an agent's tools group by group and cuts their descriptions, schemas, outputs, and mechanisms down to what the model needs. |
 | [plan-comment-pruning](plan-comment-pruning/SKILL.md) | Finds useless code comments and plans which workarounds to refactor and which to delete. |
 | [triage-bugfix-prs](triage-bugfix-prs/SKILL.md) | Closes stale bugfix PRs and reports the rest in plain English. |
 
