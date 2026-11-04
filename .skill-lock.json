@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "skills": {
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "skillFolderHash": "d79e2a5bb4df4a386c2adcdd9ab8709bba28c3f6",
+      "pluginName": "example-skills",
+      "installedAt": "2026-10-19T12:16:00.725Z",
+      "updatedAt": "2026-10-19T12:16:00.725Z"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "76a98a285cb0434f3d39e1a873823556330e398b",
+      "installedAt": "2026-10-19T12:16:04.710Z",
+      "updatedAt": "2026-10-19T12:16:04.710Z"
+    },
+    "trees": {
+      "source": "pierrecomputer/pierre",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pierrecomputer/pierre.git",
+      "skillPath": "skills/trees/SKILL.md",
+      "skillFolderHash": "061675b8e0cbb147008c486596075d18be0c77ea",
+      "installedAt": "2026-10-19T12:22:47.097Z",
+      "updatedAt": "2026-10-19T12:22:47.097Z"
+    },
+    "create-verification-skill": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cursor/plugins.git",
+      "skillPath": "harness/pstack/claude-code/skills/create-verification-skill/SKILL.md",
+      "skillFolderHash": "1ccf2d6f2f4c1bec790ed3105a55d8a5fce5b173",
+      "installedAt": "2026-10-19T13:33:12.260Z",
+      "updatedAt": "2026-10-19T13:33:12.260Z"
+    },
+    "maintain-verification-skill": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cursor/plugins.git",
+      "skillPath": "harness/pstack/claude-code/skills/maintain-verification-skill/SKILL.md",
+      "skillFolderHash": "958fcc735f9f15e18907cf00831160bbcde0b534",
+      "installedAt": "2026-10-19T13:33:31.535Z",
+      "updatedAt": "2026-10-19T13:33:31.535Z"
+    },
+    "writing-for-agents": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/productivity/writing-for-agents/SKILL.md",
+      "skillFolderHash": "ad2925850efb8973a72d2e666f7a975f9a2d4a9b",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-10-19T18:16:38.090Z",
+      "updatedAt": "2026-10-19T18:16:38.090Z"
+    },
+    "grill-me": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/productivity/grill-me/SKILL.md",
+      "skillFolderHash": "3df14e2d3a89459bf300614be9247e3ce74798f8",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-10-19T18:17:13.800Z",
+      "updatedAt": "2026-10-19T18:17:13.800Z"
+    },
+    "grilling": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/productivity/grilling/SKILL.md",
+      "skillFolderHash": "f551b6e0d219fdda0b6abf277f8f915b3127d1e9",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-10-19T18:17:21.695Z",
+      "updatedAt": "2026-11-03T13:28:22.596Z"
+    },
+    "improve-codebase-architecture": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/engineering/improve-codebase-architecture/SKILL.md",
+      "skillFolderHash": "587147dd230da299cc5e84971cb0a33f6676f8a6",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-10-19T18:17:35.696Z",
+      "updatedAt": "2026-11-03T13:28:22.658Z"
+    },
+    "unslop": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cursor/plugins.git",
+      "skillPath": "harness/pstack/claude-code/skills/unslop/SKILL.md",
+      "skillFolderHash": "4e572dd70e5557f490e3991c52ea58f0dcee8936",
+      "installedAt": "2026-10-19T18:19:50.684Z",
+      "updatedAt": "2026-10-19T18:19:50.684Z"
+    },
+    "install-anti-slop": {
+      "source": "dmmulroy/anti-slop",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dmmulroy/anti-slop.git",
+      "skillPath": "skills/install-anti-slop/SKILL.md",
+      "skillFolderHash": "97962dc9fad565ca7695bf57805d9d0138ce1def",
+      "installedAt": "2026-10-19T20:04:27.538Z",
+      "updatedAt": "2026-10-19T20:04:27.538Z"
+    },
+    "no-comments": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cursor/plugins.git",
+      "skillPath": "harness/pstack/claude-code/skills/no-comments/SKILL.md",
+      "skillFolderHash": "7ebbbc395fe6fc99cc38e4d192c0ae7a0ce8e5ae",
+      "installedAt": "2026-11-03T13:28:50.185Z",
+      "updatedAt": "2026-11-03T13:28:50.185Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "cline",
+    "codex",
+    "cursor",
+    "droid",
+    "fx",
+    "gemini-cli",
+    "github-copilot",
+    "kilo",
+    "kimi-code-cli",
+    "opencode",
+    "pi",
+    "warp",
+    "zed"
+  ]
+}
